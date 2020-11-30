@@ -1,6 +1,6 @@
 # Spotify Clone
 
-## [Live]()
+## [Live](https://raw.githubusercontent.com/rafiquljislam/spotify_clone/main/spotify_1.png)
 
 ### To Apply to Your pc
 
